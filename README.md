@@ -1,8 +1,4 @@
-# Project Name
-
-## Introduction
-
-This project is aimed at...
+# Eastvantage Assignment Frontend
 
 ## Installation
 
@@ -11,13 +7,13 @@ Follow these steps to set up the project locally:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/ArunS-Kumar/eastvantage-assignment-frontend.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd project_directory
+   cd eastvantage-assignment-frontend
    ```
 
 3. Install project dependencies:
