@@ -22,5 +22,7 @@
   },
   "include": [
     "src"
-  ]
+  ],
+  "jsx": "react",
+  "typeRoots": ["node_modules/@types", "src/types"]
 }
