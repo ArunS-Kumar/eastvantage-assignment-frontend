@@ -28,6 +28,11 @@ Follow these steps to set up the project locally:
    npm install --force
    ```
 
+
+Update Api urls in 
+   `src/apiUrls.jsx`
+
+
 Usage
 
 To run the project locally, use the following command:
@@ -35,3 +40,4 @@ To run the project locally, use the following command:
 ```
 npm start
 ```
+
